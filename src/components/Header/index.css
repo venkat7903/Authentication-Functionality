@@ -1,0 +1,9 @@
+/* Write your CSS code here */
+.nav-container {
+  display: flex;
+  justify-content: center;
+}
+
+.nav-link {
+  margin: 10px;
+}
